@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+    <head> 
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+        <script>
+        $(document).ready(function(){
+        $("h1").hide()
+        $("h1").show(1500)
+          });
+          </script>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Testing Title</title>
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    </head>
+    <body>
+        <img class="logo" src="C:\Users\Anthony\Downloads\Index\jb-mainlogo copy.jpg">
+        <div class="links">
+            <a href="Testing.html">Home</a>
+            <a href="menu.html">Menu</a>
+            <a href="shop.html">Shop</a>
+            <a href="about_us.html">About Us</a>
+            <a href="contact_us.html">Contact Us</a>
+        </div>
+        <img class="main" src="C:\Users\Anthony\Downloads\Index\Coffee House Home Page.jpg">
+        <h1>Take a little coffee break. You deserve it.</h1>
+    </body>
+    </html>
