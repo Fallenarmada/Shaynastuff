@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title> About Us </title>
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="stylesheet.css" />
+        <script src="contact_form.js"></script>
+        </head>
+<body>
+    <img class="logo" src="C:\Users\Anthony\Downloads\Index\jb-mainlogo copy.jpg">
+    <div class="links">
+        <a href="Testing.html">Home</a>
+        <a href="menu.html">Menu</a>
+        <a href="shop.html">Shop</a>
+        <a href="about_us.html">About Us</a>
+        <a href="contact_us.html">Contact Us</a>
+    </div>
+    <h1>About Java Been</h1>
+  <img class="Barista" src="C:\Users\Anthony\Downloads\Index\coffee-951948_1920.jpg">
+  <p>Java Been has been a dream of ours for quite some time. As we began growing our family, we realized that coffee was more than just an element of our morning routine. It was our passion. We would brew cups of coffee and experiment with flavor combinations until we found something we could not find from other shops. We began hosting numerous brunches at our home just to test out our coffee making skills with friends and family members. We are so excited to bring our experience out of our home and into a storefront! It is the perfect place to stop in for a refreshment while you are checking out all the other small businesses that are also located in Murray’s Historic Court Square.</p> 
+   <p> Since establishing the dream of Java Been, we have made it our mission to serve delicious coffee while maintaining a comfortable, clean, and relaxing environment with every customer feeling the essence of the small town we represent. </p>
+    <p> We are thankful for the opportunity to share our passions with our community. We appreciate your business. Take a coffee break. You deserve it. </p>
