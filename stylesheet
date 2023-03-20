@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color:black;
+}
+.links {
+    background-color:black;
+    overflow:hidden;
+}
+.links a {
+    padding: 14px 16px;
+    padding-left: 156px;
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+  }
+  .Barista {
+    height: 437px;
+    width: 760px;
+    padding-left: 300px;
+  }
+  .map {
+    padding-left: 300px;
+  }
+  .logo {
+    height:200px;
+    width:200px;
+    padding-left: 550px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .main {
+    height: 200px;
+    width: 700px;
+    padding-left:300px;
+  }
+  h2 {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
